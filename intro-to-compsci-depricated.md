@@ -1,3 +1,7 @@
+-------------------------
+scratched
+-------------------------
+
 a light intro to programming and compsci, all in js
 	no dom ever, all could be done in node
 
